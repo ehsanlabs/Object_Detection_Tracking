@@ -1,4 +1,4 @@
-# 🎯 Object Detection & Tracking (Task 4)
+# 🎯 Object Detection & Tracking
 
 Real-time object detection and multi-object tracking built for the **  Artificial Intelligence Internship**. Detects objects in video/webcam streams with **YOLOv8** and tracks them across frames with **ByteTrack** (a SORT-family tracking algorithm), assigning each object a persistent ID.
 
@@ -16,7 +16,7 @@ Real-time object detection and multi-object tracking built for the **  Artificia
 
 | Component | Technology |
 |-----------|------------|
-| Detection | YOLOv8n (Ultralytics) |
+| Detection | YOLOv8n (Ultralytics) |s
 | Tracking | ByteTrack / BoT-SORT |
 | Video I/O & Display | OpenCV |
 
