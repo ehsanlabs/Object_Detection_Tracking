@@ -1,6 +1,6 @@
-# 🎯 CodeAlpha — Object Detection & Tracking (Task 4)
+# 🎯 Object Detection & Tracking (Task 4)
 
-Real-time object detection and multi-object tracking built for the **CodeAlpha Artificial Intelligence Internship**. Detects objects in video/webcam streams with **YOLOv8** and tracks them across frames with **ByteTrack** (a SORT-family tracking algorithm), assigning each object a persistent ID.
+Real-time object detection and multi-object tracking built for the **  Artificial Intelligence Internship**. Detects objects in video/webcam streams with **YOLOv8** and tracks them across frames with **ByteTrack** (a SORT-family tracking algorithm), assigning each object a persistent ID.
 
 ## ✨ Features
 
@@ -65,7 +65,7 @@ Test run on the sample video: **647 frames processed, 11 unique objects tracked,
 ## 📂 Project Structure
 
 ```
-CodeAlpha_ObjectDetectionTracking/
+ _ObjectDetectionTracking/
 ├── detect_track.py    # Main script (detection + tracking)
 ├── yolov8n.pt         # Pre-trained YOLOv8-nano weights
 ├── videos/            # Input test videos
@@ -75,4 +75,4 @@ CodeAlpha_ObjectDetectionTracking/
 
 ---
 
-*CodeAlpha AI Internship — Task 4 | Repository: `CodeAlpha_ObjectDetectionTracking`*
+*  AI Internship — Task 4 | Repository: ` _ObjectDetectionTracking`*
